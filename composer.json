@@ -44,7 +44,7 @@
         "ext-ctype": "*",
         "symfony/options-resolver": ">=2.3,<5",
         "symfony/console": ">=2.3,<=6",
-        "symfony/process": ">=2.3,<=6",
+        "symfony/process": ">=2.3,<=7",
         "zendframework/zendservice-apple-apns": "dev-php8-compatibility",
         "zendframework/zendservice-google-gcm": "dev-php8-compatibility",
         "zendframework/zend-validator": "dev-php8-compatibility",
