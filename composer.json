@@ -29,6 +29,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/LucasGentry/ZendService_Apple_Apns"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/LucasGentry/ZendService_Google_Gcm"
         }
     ],
     "require": {
@@ -38,7 +42,7 @@
         "symfony/console": ">=2.3,<6",
         "symfony/process": ">=2.3,<5",
         "zendframework/zendservice-apple-apns": "dev-php8-compatibility",
-        "zendframework/zendservice-google-gcm": "~2.1",
+        "zendframework/zendservice-google-gcm": "dev-php8-compatibility",
         "zendframework/zend-validator": "^2.12",
         "doctrine/inflector": "~1.1",
         "symfony/filesystem": ">=2.3,<5",
