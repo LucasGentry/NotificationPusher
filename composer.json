@@ -25,13 +25,19 @@
             "homepage": "https://github.com/Ph3nol/NotificationPusher/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/LucasGentry/ZendService_Apple_Apns.git"
+        }
+    ],
     "require": {
         "php": ">=5.6",
         "ext-ctype": "*",
         "symfony/options-resolver": ">=2.3,<5",
         "symfony/console": ">=2.3,<6",
         "symfony/process": ">=2.3,<5",
-        "zendframework/zendservice-apple-apns": "~1.4",
+        "zendframework/zendservice-apple-apns": "dev-php8-compatibility",
         "zendframework/zendservice-google-gcm": "~2.1",
         "zendframework/zend-validator": "^2.12",
         "doctrine/inflector": "~1.1",
