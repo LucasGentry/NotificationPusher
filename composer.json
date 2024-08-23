@@ -28,6 +28,10 @@
     "repositories": [
         {
             "type": "vcs",
+            "url": "https://github.com/LucasGentry/zend-validator"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/LucasGentry/ZendService_Apple_Apns"
         },
         {
@@ -43,7 +47,7 @@
         "symfony/process": ">=2.3,<5",
         "zendframework/zendservice-apple-apns": "dev-php8-compatibility",
         "zendframework/zendservice-google-gcm": "dev-php8-compatibility",
-        "zendframework/zend-validator": "^2.12",
+        "zendframework/zend-validator": "dev-php-compatibility",
         "doctrine/inflector": "~1.1",
         "symfony/filesystem": ">=2.3,<5",
         "symfony/debug": ">=2.3,<5"
