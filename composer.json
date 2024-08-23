@@ -28,7 +28,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/LucasGentry/ZendService_Apple_Apns.git"
+            "url": "https://github.com/LucasGentry/ZendService_Apple_Apns"
         }
     ],
     "require": {
